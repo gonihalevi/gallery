@@ -71,6 +71,14 @@
     {
       "width": 1544,
       "height": 1024,
+      "path": "./photos/nature/4216_001.jpg",
+      "compressed_path": "./photos/objects/4216_001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/objects/4216_001.placeholder.jpg"
+   },
+   {
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/objects/29610023.jpg",
       "compressed_path": "./photos/objects/29610023.min.jpg",
       "compressed": true,
@@ -94,14 +102,6 @@
     }
   ],
   "nature": [
-    {
-      "width": 1544,
-      "height": 1024,
-      "path": "./photos/nature/4216_001.jpg",
-      "compressed_path": "./photos/nature/4216_001.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/nature/4216_001.placeholder.jpg"
-    },
     {
       "width": 1544,
       "height": 1024,
