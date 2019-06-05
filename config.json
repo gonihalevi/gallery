@@ -35,8 +35,8 @@
       "placeholder_path": "./photos/home/29610021.placeholder.jpg"
     },
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/home/4356_001.jpg",
       "compressed_path": "./photos/home/4356_001.min.jpg",
       "compressed": true,
@@ -51,8 +51,8 @@
       "placeholder_path": "./photos/home/29610002.placeholder.jpg"
     },
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/home/4356_003.jpg",
       "compressed_path": "./photos/home/4356_003.min.jpg",
       "compressed": true,
@@ -77,8 +77,8 @@
       "placeholder_path": "./photos/objects/29610023.placeholder.jpg"
     },
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/objects/4356_016.jpg",
       "compressed_path": "./photos/objects/4356_016.min.jpg",
       "compressed": true,
@@ -95,8 +95,8 @@
   ],
   "nature": [
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/nature/4216_001.jpg",
       "compressed_path": "./photos/nature/4216_001.min.jpg",
       "compressed": true,
@@ -143,8 +143,8 @@
       "placeholder_path": "./photos/nature/29610006.placeholder.jpg"
     },
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/nature/4216_009.jpg",
       "compressed_path": "./photos/nature/4216_009.min.jpg",
       "compressed": true,
@@ -153,16 +153,16 @@
   ],
   "cities": [
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/cities/4356_012.jpg",
       "compressed_path": "./photos/cities/4356_012.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/cities/4356_012.placeholder.jpg"
     },
     {
-      "width": 2395,
-      "height": 1598,
+      "width": 1544,
+      "height": 1024,
       "path": "./photos/cities/4356_004.jpg",
       "compressed_path": "./photos/cities/4356_004.min.jpg",
       "compressed": true,
