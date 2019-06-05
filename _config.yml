@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: analog photography by goni
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: goni halevi
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -22,13 +22,13 @@ spacing: 10
 shuffle: false
 
 # Integer: Number of columns for square or columns
-columns: 4
+columns: 3
 
 # Integer: Max height for rows
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: gonihalevi
 
 ######################
 # END OF CONFIG CODE #
